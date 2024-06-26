@@ -2,8 +2,8 @@
 
 <div>
     <a href="https://github.com/juliasouz/juliasouz">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juliasouz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasouz&layout=compact&langs_count=16&theme=ambient_gradient"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=juliasouz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasouz&layout=compact&langs_count=16&theme=ambient_gradient"/>
 </div>
 <div style="display: inline_block"><br>
     <img alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
