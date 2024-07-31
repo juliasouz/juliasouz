@@ -1,26 +1,31 @@
-## Hi there! 👋 I'm Julia Souza
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B457AC&height=180&section=header&text=Julia Souza&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-<div>
-<table>
-    <tr>
-    <td><a href="https://github.com/juliasouz/juliasouz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliasouz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient"/></td>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasouz&layout=compact&langs_count=16&theme=ambient_gradient"/></td>
-    </tr>
-</table>
-</div>
-<div style="display: inline_block"><br>
-    <img alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-    <img alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
-    <img alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
-    <img alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-    <img alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
-    <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HEY!+My+name+is+Julia+Souza;I'm+from+Porto+Alegre,+RS;I'm+a+computer+engineering+student;Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center" style="flex: 1;  flex-direction: column; width: 100%">
+  <div style="flex: 1; flex-direction: row; width: 100%">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliasouz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasouz&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
+  <div style="flex: 1; flex-direction: row; width: 100%">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=juliasouz&count_private=false&theme=dracula"/>
+  </div>
 </div>
 
 ##
-
-<div>
-    <a href="https://www.linkedin.com/in/julia-souza-4742021b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/julia.verso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div> 
+  <a href="https://instagram.com/julia.verso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/juliaverso_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="juliasouza9713@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/julia-souza-4742021b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliasouz&bg_color=20232A&color=B457AC&line=B457AC&point=0b7e9e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/juliasouz/count.svg" alt="Profile Views" />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B457AC&height=120&section=footer"/>
