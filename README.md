@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B457AC&height=180&section=header&text=Julia Souza&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B457AC&height=180&section=header&text=Julia+Souza&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HEY!+My+name+is+Julia+Souza;I'm+from+Porto+Alegre,+RS;I'm+a+computer+engineering+student;Welcome!+:%29)](https://git.io/typing-svg)
 
