@@ -12,7 +12,14 @@
   </div>
 </div>
 
-##
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,git,python,sklearn,tensorflow,c&perline=13">
+</div>
+
+<hr>
+<br>
 <div> 
   <a href="https://instagram.com/julia.verso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/juliaverso_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
