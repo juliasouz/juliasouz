@@ -32,6 +32,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliasouz&bg_color=20232A&color=B457AC&line=B457AC&point=0b7e9e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br>
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/juliasouz/count.svg" alt="Profile Views" />
 </div>
