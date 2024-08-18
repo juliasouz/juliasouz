@@ -19,15 +19,14 @@
   <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,git,python,sklearn,tensorflow,opencv,figma,c&perline=13" title="js, html, css, bootstrap, git, python, sklearn, tensorflow, opencv, figma, c">
 </div>
 
-<hr>
+##
+
 <div> 
   <a href="https://instagram.com/julia.verso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/juliaverso_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="mailto:juliasouza9713@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/juliasouz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-<br>
+</div><br><br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliasouz&bg_color=20232A&color=B457AC&line=B457AC&point=0b7e9e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
