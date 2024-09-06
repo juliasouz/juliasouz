@@ -16,7 +16,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,git,python,sklearn,tensorflow,opencv,julia,fortran,figma,c&perline=13" title="js, html, css, bootstrap, jquery, git, python, sklearn, tensorflow, opencv, julia, fortran, figma and c">
+  <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,git,python,sklearn,tensorflow,opencv,julia,figma,c&perline=13" title="js, html, css, bootstrap, jquery, git, python, sklearn, tensorflow, opencv, julia, figma and c">
 </div>
 <br>
 
