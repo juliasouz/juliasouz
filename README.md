@@ -15,8 +15,33 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
+### Programming Languages
 <div style="display: inline_block"><br>
-  <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,nodejs,git,python,sklearn,tensorflow,opencv,julia,fortran,figma,c&perline=15" title="js, html, css, bootstrap, jquery, node.js, git, python, sklearn, tensorflow, opencv, julia, fortran, figma and c">
+  <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,python,julia,fortran,c&perline=5" title="JavaScript, Python, Julia, Fortran, C">
+</div>
+<br>
+
+### Front-end
+<div style="display: inline_block"><br>
+  <img align="center" alt="Frontend" src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery&perline=4" title="HTML, CSS, Bootstrap, jQuery">
+</div>
+<br>
+
+### Back-end
+<div style="display: inline_block"><br>
+  <img align="center" alt="Backend" src="https://skillicons.dev/icons?i=nodejs,express&perline=10" title="Node.js, Express.js">
+</div>
+<br>
+
+### Machine Learning and Data Science Tools
+<div style="display: inline_block"><br>
+  <img align="center" alt="ML and Data Science" src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv&perline=3" title="Scikit-learn, TensorFlow, OpenCV">
+</div>
+<br>
+
+### Development and Design Tools
+<div style="display: inline_block"><br>
+  <img align="center" alt="Tools" src="https://skillicons.dev/icons?i=git,figma,xd,npm,postman&perline=5" title="Git, Figma, XD, npm and Postman">
 </div>
 <br>
 
