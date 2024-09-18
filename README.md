@@ -17,7 +17,7 @@
 
 ### Programming Languages
 <div style="display: inline_block"><br>
-  <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,python,julia,fortran,c&perline=5" title="JavaScript, Python, Julia, Fortran, C">
+  <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,python,julia,fortran,c&perline=5" title="JavaScript, Python, Julia, Fortran and C">
 </div>
 <br>
 
