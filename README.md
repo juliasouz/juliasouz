@@ -29,7 +29,7 @@
 
 ### Back-end
 <div style="display: inline_block"><br>
-  <img align="center" alt="Backend" src="https://skillicons.dev/icons?i=nodejs,express&perline=10" title="Node.js, Express.js">
+  <img align="center" alt="Backend" src="https://skillicons.dev/icons?i=nodejs,express,postgres&perline=10" title="Node.js, Express.js, PostgreSQL">
 </div>
 <br>
 
