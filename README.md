@@ -49,6 +49,7 @@
 - Portuguese (Native Language)
 - English (C1)
 - French (B1)
+- Spanish (A2)
 
 ##
 <div> 
