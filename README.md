@@ -23,7 +23,7 @@
 
 ### Front-end
 <div style="display: inline_block"><br>
-  <img align="center" alt="Frontend" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react&perline=6" title="HTML, CSS, Bootstrap, JavaScript, jQuery, React">
+  <img align="center" alt="Frontend" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,vite&perline=6" title="HTML, CSS, Bootstrap, JavaScript, jQuery, React, Vite">
 </div>
 <br>
 
