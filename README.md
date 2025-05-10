@@ -48,15 +48,23 @@
 ### 🎨 UX/UI Design
 <div style="display: inline_block">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/>
-  <img alt="Prototyping" src="https://img.shields.io/badge/Prototyping-FF6B6B?style=for-the-badge&logo=prototyping&logoColor=white"/>
+  <img alt="UI Design" src="https://img.shields.io/badge/UI_Design-7FDBFF?style=for-the-badge&logo=ui&logoColor=black"/>
+  <img alt="UX Research" src="https://img.shields.io/badge/UX_Research-FF851B?style=for-the-badge&logo=userresearch&logoColor=white"/>
+  <img alt="Design Systems" src="https://img.shields.io/badge/Design_Systems-2ECC40?style=for-the-badge&logo=designsystem&logoColor=white"/>
+  <img alt="Accessibility" src="https://img.shields.io/badge/Accessibility-0074D9?style=for-the-badge&logo=accessibility&logoColor=white"/>
+  <img alt="Mobile UI" src="https://img.shields.io/badge/Mobile_UI-FFDC00?style=for-the-badge&logo=mobile&logoColor=black"/>
 </div>
 
-### 🤖 Machine Learning
+### 🤖 Machine Learning & Data Science
 <div style="display: inline_block">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
 </div>
 
 ## 🌍 Languages
