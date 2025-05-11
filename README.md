@@ -50,6 +50,7 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img alt="UI Design" src="https://img.shields.io/badge/UI_Design-7FDBFF?style=for-the-badge&logo=ui&logoColor=black"/>
   <img alt="UX Research" src="https://img.shields.io/badge/UX_Research-FF851B?style=for-the-badge&logo=userresearch&logoColor=white"/>
+  <img alt="UX Writing" src="https://img.shields.io/badge/UX_Writing-FF6B6B?style=for-the-badge&logo=writing&logoColor=white"/>
   <img alt="Design Systems" src="https://img.shields.io/badge/Design_Systems-2ECC40?style=for-the-badge&logo=designsystem&logoColor=white"/>
   <img alt="Accessibility" src="https://img.shields.io/badge/Accessibility-0074D9?style=for-the-badge&logo=accessibility&logoColor=white"/>
   <img alt="Mobile UI" src="https://img.shields.io/badge/Mobile_UI-FFDC00?style=for-the-badge&logo=mobile&logoColor=black"/>
