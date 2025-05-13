@@ -21,7 +21,7 @@ When I'm not coding, I love prototyping in Figma and learning about tech that em
 |---------------|-------------------|------------------|-------------------|
 | [**Keeper App**](https://codesandbox.io/p/sandbox/9yn57t) | A clone of Google Keep | Note creation/deletion, Material UI | `React`, `Vite`, `Material-UI` |
 | [**BookShelf**](https://github.com/juliasouz/book-notes) | Full-stack reading tracker | Book management, WCAG-compliant UI | `Node.js`, `PostgreSQL`, `EJS` |
-| [**Book Recommender**](https://github.com/juliasouz/book-recommender) | API-powered book discovery | Genre/author search, modal UI | `Open Library API`, `CSS Grid` |
+| [**Book Recommender**](https://2gcn8s-3000.csb.app/) | API-powered book discovery | Genre/author search, modal UI | `Open Library API`, `CSS Grid` |
 | [**Real-Time Hand Tracker**](https://github.com/juliasouz/real-time-hand-tracking) | Computer vision prototype | MediaPipe, ~80% accuracy | `Python`, `OpenCV`, `Jupyter` |
 
 ## 🛠️ Tech Stack
