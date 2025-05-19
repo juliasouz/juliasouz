@@ -97,9 +97,9 @@ When I'm not coding, I love prototyping in Figma and learning about tech that em
 ## 🔥 Currently Learning
 
 <div>
-  <img src="https://img.shields.io/badge/Web3-B457AC?style=flat&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DApps-44475A?style=flat&logo=web3dotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HCI-ff9800?style=flat&logo=codeigniter&logoColor=white"/>
 </div>
+
 
 ## 📊 Activity
 
