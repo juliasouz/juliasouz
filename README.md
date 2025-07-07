@@ -99,6 +99,8 @@ When I'm not coding, I love prototyping in Figma and learning about tech that em
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_App_Service_Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=fff"/>
+
 </div>
 
 
