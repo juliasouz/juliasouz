@@ -11,8 +11,8 @@ When I'm not coding, I love prototyping in Figma and learning about tech that em
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliasouz&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasouz&layout=compact&langs_count=7&theme=dracula&hide_border=true&hide=Jupyter%20Notebook,HTML"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=juliasouz&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+  <img width="304" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasouz&layout=compact&langs_count=7&theme=dracula&hide_border=true&hide=Jupyter%20Notebook,HTML"/>
 </div>
 
 ## 🚀 Highlighted Projects
