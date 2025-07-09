@@ -110,7 +110,7 @@ When I'm not coding, I love prototyping in Figma and learning about tech that em
 
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/juliasouz/count.svg" alt="Visitor Count"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=juliasouz" alt="Visitor Count"/>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B457AC&height=120&section=footer"/>
