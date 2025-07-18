@@ -84,7 +84,7 @@ When I'm not coding, I love prototyping in Figma and learning about tech that em
 ## 🌍 Languages
 
 - 🇧🇷 **Portuguese** – Native
-- 🇺🇸 **English** – Advanced (C2)
+- 🇺🇸 **English** – Proficiente/Fluent (C2)
 - 🇫🇷 **French** – Intermediate (B1)
 - 🇪🇸 **Spanish** – Basic (A2)
 
