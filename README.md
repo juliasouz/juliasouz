@@ -1,10 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B457AC&height=180&section=header&text=Julia+Souza&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0A4A4&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+👋;I'm+Julia+Souza;Software+Engineering+Student;Data+Analysis+&+QA;Aspiring+Data+Scientist+📊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0A4A4&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+👋;I'm+Julia+Souza;Software+Engineering+Student;Data+Analysis+and+QA;Aspiring+Data+Scientist+📊)](https://git.io/typing-svg)
 
 ## 👩‍💻 About Me
 
-Hi! I'm Julia! A **Software Engineering student** and **Information Systems Intern** at SESI from Porto Alegre, Brazil.
+Hi! I'm Julia! A **Software Engineering student** and **Data Intern** at SESI from Porto Alegre, Brazil.
 My current focus is on ensuring **data integrity** and **software quality** through rigorous testing, process analysis, and data validation.
 I'm passionate about building my foundation in data extraction, cleaning, and analysis to transition into a **Data Science** role, leveraging my perspective from software development to build scalable data solutions and transform raw data into actionable business insights.
 
