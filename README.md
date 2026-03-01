@@ -6,7 +6,7 @@
 
 Hi! I'm a **Software Engineering student** (5th semester at UniCV) and a **Data & Systems Intern** at SESI/FIERGS from Porto Alegre, Brazil. 
 
-Currently, I work at the intersection of **Code, Data, and Business Strategy**. I'm actively transitioning into **Data Engineering**, focusing on building scalable data solutions, ETL pipelines, and transforming raw data into actionable business insights. My day-to-day involves creating robust data models, automating workflows, and leveraging my software development background to ensure data quality and integrity.
+Currently, my work focuses on **Code, Data, and Business Strategy**. I'm actively transitioning into **Data Engineering**, building scalable data solutions, ETL pipelines, and transforming raw data into actionable business insights. My day-to-day involves creating robust data models, automating workflows, and leveraging my software development background to ensure data quality and integrity.
 
 ## Highlighted Projects
 
