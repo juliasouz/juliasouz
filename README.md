@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B457AC&height=180&section=header&text=Julia+Souza&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=180&section=header&text=Julia+Souza&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0A4A4&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+👋;I'm+Julia+Souza;Software+Engineering+Student;Data+%26+Systems+Intern)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CFE0BC&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+👋;I'm+Julia+Souza;Software+Engineering+Student;Data+%26+Systems+Intern)](https://git.io/typing-svg)
 
 ## About Me
 
@@ -95,10 +95,10 @@ Currently, I work at the intersection of **Code, Data, and Business Strategy**. 
 
 ## Activity
 
-[![Ju's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliasouz&bg_color=20232A&color=B457AC&line=B457AC&point=0b7e9e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ju's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliasouz&bg_color=20232A&color=339933&line=339933&point=CFE0BC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=juliasouz" alt="Visitor Count"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B457AC&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=120&section=footer"/>
